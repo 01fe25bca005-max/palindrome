@@ -1,4 +1,3 @@
-# Python program to check palindrome
 import sys  
 string = sys.argv[1]
 
